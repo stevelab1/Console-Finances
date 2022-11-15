@@ -117,8 +117,6 @@ var netProfits = profitLosses.reduce((accumulator, value) => {
 
 console.log("The net total amount of Profits & Losses over period = " + netProfits);
 
-
-
 // * The average of the **changes** in Profit/Losses over the entire period.
 //   * You will need to track what the total change in profits are from month to month and then find the average.
 //   * (`Total/Number of months`)
