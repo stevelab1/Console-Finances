@@ -2,7 +2,7 @@
 
 ## Overview
 
-The brief was to create code for analyzing the financial records of a company based on a provided financial dataset.
+This project contains code for analyzing the financial records of a company based on a provided financial dataset.
 
 ## Steps
 

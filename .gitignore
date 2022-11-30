@@ -1,8 +1,10 @@
 # exclude everything
-images/*
 
 # exception to the rule
-!images/02-portfolio-1.jpg 
+
+# class files
+
+instructions.md
 
 # ignore all files starting with . or ~
 .*
