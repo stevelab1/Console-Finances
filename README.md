@@ -25,4 +25,6 @@ When you open your code in the browser console your resulting analysis should lo
 
 ![Console Finances screenshot](./console-finances.png)
 
----
+## Deployed
+
+https://stevelab1.github.io/Console-Finances/
