@@ -28,3 +28,7 @@ When you open your code in the browser console your resulting analysis should lo
 ## Deployed
 
 https://stevelab1.github.io/Console-Finances/
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
